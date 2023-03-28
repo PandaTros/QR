@@ -1,0 +1,155 @@
+.img-index {
+    width: auto;
+    background-image: url("../img/users/top-index.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.navbar-toggler-icon {
+    
+}
+
+.navbar-toggler {
+    color: transparent !important;
+}
+
+.text-nav {
+    color: rgb(182, 182, 182);
+}
+
+.text-nav:hover {
+    color: white;
+    transform: scale(105%);
+}
+
+
+.img-border-card {
+    border-radius: 4px;
+
+}
+
+.img-proy {
+    width: auto;
+    background-image: url("../img/users/m-index.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-card {
+    margin-top: -300px;
+    color: transparent !important;
+    transition: 0.5s ease-in;
+    padding-top: 100PX;
+
+}
+
+.text-card:hover {
+    translate: 0 200px;
+    transition: 0.5s ease-in;
+    position: relative;
+    color: black !important;
+    margin-bottom: 120px;
+}
+
+.img-contacto {
+    float: center;
+    max-width: 15%;
+}
+
+.img-contacto-u {
+    float: center;
+    max-width: 10%;
+}
+
+.p-contacto {
+    margin-bottom: 2px !important;
+}
+
+.col-contacto:hover {
+    border-radius: 5px;
+    background-color: rgb(231, 231, 231);
+    transition: .2s ease-in-out;
+}
+
+.div-imagen {
+    display: inline-block;
+    position: relative;
+}
+
+.div-imagen>div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    padding: 10px;
+    margin: 0;
+
+}
+
+.desvanecer:hover {
+    opacity: 0.3;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    -ms-transition: opacity 500ms;
+    transition: opacity 500ms;
+}
+
+div #c1s {
+    width: 300px;
+    height: 300px;
+    background-image: url(../img/img2.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+div #c2s {
+    width: 300px;
+    height: 300px;
+    background-image: url(../img/img10.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+div #c3s {
+    width: 300px;
+    height: 300px;
+    background-image: url(../img/img11.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+div #info {
+    position: absolute;
+    width: 300px;
+    height: 165px;
+    background-color: rgba(31, 31, 31, 0.9);
+    opacity: 0;
+    transition: 0.2s ease-in-out;
+}
+
+div#info:hover {
+    opacity: 1;
+}
+
+div#headline:hover {
+    position: absolute;
+}
+.img-nosotros{
+    background-image: url(../img/users/top-index.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.line-nostros{
+    border: 1px solid #FBBE3E;
+    height: 1px;
+    width: 170px;
+}
+#btn-cotizacion{
+    background-color: #FBBE3E!important;
+    border: none !important;
+}

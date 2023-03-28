@@ -1,0 +1,110 @@
+/*Colores de fondo*/
+.bg-1 {
+    background-color: #6675df;
+}
+
+.bg-2 {
+    background-color: #6675df;
+}
+
+.bg-3 {
+    background-color: #1A2A42;
+}
+
+.bg-4 {
+    background-color: #404040;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+/*Colores de texto*/
+.color-1 {
+    color: #213047 !important;
+}
+
+.color-2 {
+    color: #6675df !important;
+}
+
+.color-3 {
+    color: #1A2A42 !important;
+}
+
+.color-4 {
+    color: #404040 !important;
+}
+
+.color-5 {
+    color: #dadada !important;
+}
+
+.color-white {
+    color: rgb(255, 255, 255) !important;
+}
+
+.color-black {
+    color: black;
+}
+
+.tx-14 {
+    font-size: 14px;
+}
+
+.tx-16 {
+    font-size: 16px;
+}
+
+.tx-18 {
+    font-size: 18px;
+}
+
+.tx-20 {
+    font-size: 20px;
+}
+
+.tx-22 {
+    font-size: 22px;
+}
+
+.tx-24 {
+    font-size: 24px;
+}
+
+.tx-26 {
+    font-size: 26px;
+}
+
+.tx-38 {
+    font-size: 38px;
+}
+
+.txw-200 {
+    font-weight: 200;
+}
+
+.txw-400 {
+    font-weight: 400;
+}
+
+.txw-600 {
+    font-weight: 600;
+}
+
+.txw-700 {
+    font-weight: 700;
+}
+
+.txw-800 {
+    font-weight: 800;
+}
+.tx--fa-38{
+    font-size: 38px !important;
+}
+
+@media (min-width: 576px) {
+    .text-sm-left {
+        text-align: left !important;
+    }
+}
